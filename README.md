@@ -2,7 +2,7 @@
 
 • Code review
  
-• Self-development in PHP, developer code audit, code optimization architectural issues
+• Self-development in PHP, Java , JavaScript , HTML , CSS , SQL , GO ...
 
 • Determine the technology stack
 

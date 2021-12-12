@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi 👋 i can do
+
+• Code review
+ 
+• Self-development in PHP, developer code audit, code optimization architectural issues
+
+• Determine the technology stack
+
+• Build the architecture
+
+• Negotiate development budget
+
+• Manage a team of 10+ people
+
+• Deliver on time with clear timeline
+
+• Build Scrum workflow
+
+• Create full development life cycle
+
+
 
 <!--
 **valentininua/valentininua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

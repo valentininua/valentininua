@@ -2,7 +2,7 @@
 
 • Code review
  
-• Self-development in PHP, Java , JavaScript , HTML , CSS , SQL , GO ...
+• Self-development in PHP, Java , JavaScript , SQL  ...
 
 • Determine the technology stack
 

@@ -19,6 +19,16 @@
 • Create full development life cycle
 
 
+📫 How to reach me: [telegram](https://t.me/valentininua)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valentininua&count_private=true&show_icons=true)](https://github.com/valentininua)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentininua&count_private=true&hide=css&layout=compact)](https://github.com/valentininua)
+
+
+
 
 <!--
 **valentininua/valentininua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

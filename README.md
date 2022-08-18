@@ -1,5 +1,9 @@
 ### Hi 👋 i can do
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
 • Code review
  
 • Self-development in PHP, Java , JavaScript , SQL  ...
@@ -20,6 +24,10 @@
 
 
 📫 How to reach me: [telegram](https://t.me/valentininua)
+
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valentininua&count_private=true&show_icons=true)](https://github.com/valentininua)

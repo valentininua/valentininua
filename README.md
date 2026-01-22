@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 • Code review
  
-• **Self-development in PHP , Java , JavaScript , TypeScript , SQL  ... + plus popular frameworks **
+• Self-development in PHP , Java , JavaScript , TypeScript , SQL  ... + plus popular frameworks
 
 • Determine the technology stack
 
@@ -53,6 +53,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 📫 How to reach me: [telegram](https://t.me/valentininua)
+or
+✉️ [E-mail](work@valentin.in.ua)
 
 
 

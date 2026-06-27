@@ -59,9 +59,7 @@ Backend-focused engineer with 10+ years building scalable web applications, micr
 
 ### 🚀 Featured Projects
 
-- **P2P encrypted messenger** — decentralized messenger in Go using libp2p, Kademlia DHT, GossipSub, and XChaCha20-Poly1305 encryption, with a terminal UI · 
-- **cursor-proxy** — Go proxy server that intercepts Cursor IDE API calls and routes them to alternative LLM backends (DeepSeek, Groq, Ollama, OpenRouter) via YAML-configured glob routing ·  
-- **Invisible screen-share browser (macOS)** — Swift app that stays hidden from screen-sharing recipients while remaining visible locally, using window-level and sharing-type flags  
+- **P2P encrypted messenger** — decentralized messenger in Go using libp2p, Kademlia DHT, GossipSub, and XChaCha20-Poly1305 encryption, with a terminal UI ·   
 - **Hyperbolic disk visualizer** — interactive {5,4} tessellation of the Poincaré disk with Möbius transformations and metrically correct navigation, built in HTML/JS · 
 
 <a href="https://github.com/BaseMax?tab=repositories">
